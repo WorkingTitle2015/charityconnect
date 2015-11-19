@@ -1,0 +1,79 @@
+body {
+	background: url("http://cdn.playbuzz.com/cdn/bd9ce310-760d-4d48-857f-9a031785778a/fdeb0edb-08d5-4286-b6fd-5b1f4626f2f1.jpg");
+	background-size: 100%;
+}
+/*ul li {
+	height: 200px;
+	width: 100px;
+	border-radius: 100%;
+	border: 10px solid #8b0000;
+	background-color: red;
+	position: relative;
+	display: inline;
+	margin-left: 5px;
+	margin-top: 5px;
+	top: 90%;
+	/*margin-bottom: 10px;
+}
+.yellow {
+	border-color: yellow;
+	background-color: #ffff66;
+}
+
+	/*background-color: yellow
+
+<body>
+	<h1>Charity Connect</h1>
+	<h2>Connecting People to Causes</h2>
+	<button type="button">Donate</button>
+	<center>
+	<ul>
+		<li class='yellow'><a href='www.google.com'>About Us</a></li>
+		<li><a href='www.google.com'>Charities and Causes</a></li>
+		<li class='yellow'><a href='www.google.com'>Sign In</a></li>
+		<li><a href='www.google.com'>Contact Us</a></li>
+	</ul>
+	</center>
+</body>
+	*/
+
+div {
+	position: relative;
+	display: inline-block;
+	height: 100px;
+	width: 100px;
+	border-radius: 100%;
+	border: 2px solid black;
+	margin-left: 5px;
+	margin-top: 5px;
+	text-align: center;
+}
+div p {
+	position: relative;
+	margin-top: 40px;
+	font-size: 12px;
+}
+.yellow {
+	border: 2px dashed yellow;
+	background-color: yellow;
+}
+.yellow:hover {
+	background-color: red;
+}
+.red {
+	border: 2px dashed red;
+	background-color: red;
+}
+.red:hover {
+	background-color: yellow;
+}
+a {
+	text-align: center;
+	color: white;
+	text-decoration: none;
+}
+a:hover {
+	color: #cc0000;
+	font-weight: bold;
+	text-decoration: none;
+}
