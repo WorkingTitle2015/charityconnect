@@ -1,0 +1,16 @@
+<style>
+body {
+	background: url("https://www.pioneerspost.com/sites/default/files/images/article/yellow%20brick%20road%20pic.jpg");
+	background-size: cover;
+	color: red;
+	font-family: helvetica; 
+}
+h1 {
+	text-align: center;
+	font-size: 22px;
+}
+h2 {
+	text-align: center;
+	font-size: 14px;
+}
+</style>
