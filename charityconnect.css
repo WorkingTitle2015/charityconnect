@@ -1,7 +1,3 @@
-body {
-	background: url("http://cdn.playbuzz.com/cdn/bd9ce310-760d-4d48-857f-9a031785778a/fdeb0edb-08d5-4286-b6fd-5b1f4626f2f1.jpg");
-	background-size: 100%;
-}
 /*ul li {
 	height: 200px;
 	width: 100px;
@@ -47,6 +43,8 @@ div {
 	margin-left: 5px;
 	margin-top: 5px;
 	text-align: center;
+	margin-top: 80px;
+	font-weight: bold;
 }
 div p {
 	position: relative;
@@ -54,26 +52,52 @@ div p {
 	font-size: 12px;
 }
 .yellow {
-	border: 2px dashed yellow;
-	background-color: yellow;
+	border: 10px dashed #ffcc00;
+	background-color: #ffff00;
+	color: black;
 }
 .yellow:hover {
 	background-color: red;
 }
 .red {
-	border: 2px dashed red;
-	background-color: red;
+	border: 10px dashed #990000;
+	background-color: #ff0000;
+	color: white;
 }
 .red:hover {
 	background-color: yellow;
 }
 a {
 	text-align: center;
-	color: white;
 	text-decoration: none;
 }
 a:hover {
 	color: #cc0000;
 	font-weight: bold;
 	text-decoration: none;
+}
+body {
+	background: url("https://www.pioneerspost.com/sites/default/files/images/article/yellow%20brick%20road%20pic.jpg");
+	background-size: cover;
+	color: white;
+	font-family: Helvetica;
+	padding-top: 100px; 
+}
+h1 {
+	text-align: center;
+	font-size: 60px;
+	color: #ffff00;
+	text-shadow: 2px 2px #990000, 2px 2px #990000, 2px 2px #990000, 2px 2px #990000;
+}
+h2 {
+	text-align: center;
+	font-size: 32px;
+	text-shadow: 2px 2px green, 2px 2px green, 2px 2px green, 2px 2px green;
+}
+input {
+	background-color: green;
+	font-size: 22px;
+	color: white;
+	border: 2px green;
+	border-style: outset;
 }
