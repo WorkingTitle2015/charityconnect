@@ -54,7 +54,6 @@ div p {
 .yellow {
 	border: 10px dashed #ffcc00;
 	background-color: #ffff00;
-	color: black;
 }
 .yellow:hover {
 	background-color: red;
@@ -62,7 +61,7 @@ div p {
 .red {
 	border: 10px dashed #990000;
 	background-color: #ff0000;
-	color: white;
+	
 }
 .red:hover {
 	background-color: yellow;
@@ -70,6 +69,7 @@ div p {
 a {
 	text-align: center;
 	text-decoration: none;
+	color: blue;
 }
 a:hover {
 	color: #cc0000;
